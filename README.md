@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Kumar</h1>
-<h3 align="center">A passionate animations and Game development from India</h3>
+<h3 align="center">A passionate about animations and Game development from India</h3>
 <img align="right" alt="Coding" width="400" src="https://tamirkhan.in/blog/wp-content/uploads/2019/07/full-stack-developer-skills-1024x834.jpg">
 
 
